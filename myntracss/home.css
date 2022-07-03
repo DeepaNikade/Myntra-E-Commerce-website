@@ -17,7 +17,7 @@
     margin: auto;
     z-index: 10;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .navbar{
         width: 100%;
     }
@@ -31,7 +31,7 @@ align-items: center;
 margin-top: 2rem;
 margin-bottom: 1rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .logo{
         margin-bottom: 2rem;
     }
@@ -50,7 +50,7 @@ margin-bottom: 1rem;
     font-weight:500;
     
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .navigation{
         display: none;
     }
@@ -99,7 +99,7 @@ margin-bottom: 1rem;
 }
 
 
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .menu{
         display:block;
         position: absolute;
@@ -121,7 +121,7 @@ margin-bottom: 1rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .search{
         display: none;
     }
@@ -149,7 +149,7 @@ font-size: 12px;
 font-weight: 600;
 
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .social{
         width: 40%;
         display: flex;
@@ -175,7 +175,7 @@ font-weight: 600;
     flex-direction: column;
     color: black;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .profile{
         display: flex;
         justify-content: space-around;
@@ -269,37 +269,37 @@ font-weight: 600;
     align-self: center;
     
   }
-  @media only screen and (max-width: 340px){
+  @media only screen and (max-width: 767px){
     .item1{
         display: none;
     }
 }
-  @media only screen and (max-width: 340px){
+  @media only screen and (max-width: 767px){
     .item3{
         display: none;
     }
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .item4{
         display: none;
     }
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .item4{
         display: none;
     }
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .item5{
         display: none;
     }
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .item6{
         display: none;
     }
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .item7{
         display: none;
     }
@@ -308,7 +308,7 @@ font-weight: 600;
   .item2 {
     grid-area: 1 / 2 /4/4;
   }
-  @media only screen and (max-width: 340px){
+  @media only screen and (max-width: 767px){
       .item2{
           display: block;
       }
@@ -318,7 +318,7 @@ font-weight: 600;
       
 
   }
-  @media only screen and (max-width: 340px){
+  @media only screen and (max-width: 767px){
     .item2 img{
         height: 8rem;
     }
@@ -430,7 +430,7 @@ font-weight: 600;
     width: 95%;
     margin: auto;
 }
-@media only screen and (max-width:340px) {
+@media only screen and (max-width:767px) {
     .bank{
         flex-wrap: wrap;
         justify-content: space-around;
@@ -449,7 +449,7 @@ font-weight: 600;
     
     width: 12rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .axis img{
      width: 3rem;
      /* flex-wrap: wrap; */
@@ -465,7 +465,7 @@ font-weight: 600;
 .icici img{
     width: 12rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .icici img{
      width: 3rem;
      /* flex-wrap: wrap; */
@@ -479,7 +479,7 @@ font-weight: 600;
 .sbi img{
     width: 7rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .sbi img{
      width: 2rem;
      /* flex-wrap: wrap; */
@@ -494,7 +494,7 @@ font-weight: 600;
 .zest img{
     width: 10rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .zest img{
      width: 2rem;
      /* flex-wrap: wrap; */
@@ -511,7 +511,7 @@ font-weight: 600;
 .discount span{
     font-size: 50px;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .discount span{
      font-size: 20px;
      /* flex-wrap: wrap; */
@@ -525,7 +525,7 @@ font-weight: 600;
 .instant span{
     font-size: 25px;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .instant span{
      font-size: 10px;
      /* flex-wrap: wrap; */
@@ -545,7 +545,7 @@ font-weight: 600;
     font-size: 40px;
 
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .deal span{
         font-size: 30px;
     }
@@ -580,7 +580,7 @@ font-weight: 600;
     margin-top: 1rem;
     padding-bottom: 2rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .cards{
         width: 95%;
         margin: auto;
@@ -645,7 +645,7 @@ font-weight: 600;
     margin-top: 1rem;
     padding-bottom: 2rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .card2{
         flex-wrap: wrap;
     }
@@ -692,7 +692,7 @@ font-weight: 600;
     justify-content: center;
     margin-top: 2rem;
 }
-@media only screen  and (max-width: 340px){
+@media only screen  and (max-width: 767px){
     .deal3{
         
         
@@ -707,7 +707,7 @@ font-weight: 600;
     font-size: 50px;
    
 }
-@media only screen  and (max-width: 340px){
+@media only screen  and (max-width: 767px){
     .deal3 span{
         font-size: 25px;
         font-weight: 600;
@@ -721,7 +721,7 @@ font-weight: 600;
     flex-direction: row;
     margin-top: 2rem;
 }
-@media only screen  and (max-width: 340px){
+@media only screen  and (max-width: 767px){
     .card3{
         display: flex;
         align-items: center;
@@ -742,7 +742,7 @@ font-weight: 600;
     align-items: center;
     background:linear-gradient(180deg,#4700D8,#F900BF,#9900F0);
 }
-@media only screen  and (max-width: 340px){
+@media only screen  and (max-width: 767px){
 .out{
     width: 150px;
     height: 150px;
@@ -757,7 +757,7 @@ font-weight: 600;
     align-items: center;
     background-color: white;
 }
-@media only screen  and (max-width: 340px){
+@media only screen  and (max-width: 767px){
 .in{
     width: 120px;
     height: 120px;
@@ -770,7 +770,7 @@ font-weight: 600;
     height: 150px;
     border-radius: 50%;
 }
-@media only screen  and (max-width: 340px){
+@media only screen  and (max-width: 767px){
     .imagesround img{
         width: 100px;
         height: 100px;
@@ -788,7 +788,7 @@ font-weight: 600;
     background-color: #F0D9FF;
     padding-bottom: 2rem;
 }
-@media only screen  and (max-width: 340px){
+@media only screen  and (max-width: 767px){
     .box{
         width: 95%;
         margin: auto;
@@ -805,7 +805,7 @@ margin-top: 2rem;
 font-size: 100px;
 font-family:'Whitney-Semibold' ;
 }
-@media only screen  and (max-width: 340px){
+@media only screen  and (max-width: 767px){
     .upside h1{
         font-size: 30px;
     }
@@ -814,7 +814,7 @@ font-family:'Whitney-Semibold' ;
     font-size: 40px;
     font-weight:lighter;
 }
-@media only screen  and (max-width: 340px){
+@media only screen  and (max-width: 767px){
     .upside span{
         font-size: 15px;
     }
@@ -826,7 +826,7 @@ font-family:'Whitney-Semibold' ;
     align-items: center;
     margin-top: 5rem;
 }
-@media only screen  and (max-width: 340px){
+@media only screen  and (max-width: 767px){
     .downside{
         /* flex-wrap: wrap; */
         width: 95%;
@@ -839,7 +839,7 @@ font-family:'Whitney-Semibold' ;
 .d{
     /* border: 1px solid black; */
 }
-@media only screen  and (max-width: 340px){
+@media only screen  and (max-width: 767px){
     .d{
         display: flex;
         flex-direction: column;
@@ -862,7 +862,7 @@ font-family:'Whitney-Semibold' ;
     
 
 }
-@media only screen  and (max-width: 340px){
+@media only screen  and (max-width: 767px){
     .downcard{
         display: flex;
         flex-direction:column;
@@ -886,7 +886,7 @@ font-family:'Whitney-Semibold' ;
    
 
 }
-@media only screen  and (max-width: 340px){
+@media only screen  and (max-width: 767px){
     .circleimg{
         width: 60px;
         height: 60px;
@@ -897,7 +897,7 @@ font-family:'Whitney-Semibold' ;
     height: 50px;
     /* border-radius: 50%; */
 }
-@media only screen  and (max-width: 340px){
+@media only screen  and (max-width: 767px){
     .circleimg img{
         width: 40px;
         height: 15px;
@@ -911,7 +911,7 @@ font-family:'Whitney-Semibold' ;
     flex-direction: column;
     font-size: 25px;
 }
-@media only screen  and (max-width: 340px){
+@media only screen  and (max-width: 767px){
     .downinfo{
         font-size: 10px;
     }
@@ -923,7 +923,7 @@ font-family:'Whitney-Semibold' ;
     margin-top: 2rem;
     font-size: 30px;
 }
-@media only screen  and (max-width: 340px){
+@media only screen  and (max-width: 767px){
     .deal5{
         font-size: 20px;
     }
@@ -940,7 +940,7 @@ font-family:'Whitney-Semibold' ;
     padding-bottom: 1rem;
     margin-top: 1rem;
 }
-@media only screen  and (max-width: 340px){
+@media only screen  and (max-width: 767px){
     .card4{
         margin-top: 2rem;
         width: 95%;
@@ -1040,7 +1040,7 @@ font-family:'Whitney-Semibold' ;
     width: 100%;
     margin-top: 2rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
    .footer{
     width: 100%;
     
@@ -1053,7 +1053,7 @@ font-family:'Whitney-Semibold' ;
     flex-direction: row;
     box-shadow: 4px 5px 10px -10px rgba(0,0,0,0.75);
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .footerin{
      width: 85%;
      flex-wrap: wrap;
@@ -1064,7 +1064,7 @@ font-family:'Whitney-Semibold' ;
     margin-left: 1rem;
     margin-top: 1rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .online{
      width: 100%;
      /* flex-wrap: wrap; */
@@ -1094,7 +1094,7 @@ font-family:'Whitney-Semibold' ;
     margin-top: 1rem;
     padding-left: 3rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .useful{
      width: 100%;
      /* flex-wrap: wrap; */
@@ -1111,7 +1111,7 @@ font-family:'Whitney-Semibold' ;
     width: 360px;
     margin-top: 1rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .experience{
      width: 100%;
      /* flex-wrap: wrap; */
@@ -1143,7 +1143,7 @@ margin-top: 1rem;
     width: 300px;
     margin-top: 1rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (max-width: 767px){
     .dekstop{
      width: 100%;
      /* flex-wrap: wrap; */
