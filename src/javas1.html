@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/javas1.css">
+</head>
+<body>
+    <h1>Demo js</h1>
+    <button>Namaste </button>
+
+
+    <script>
+        let namaste=document.querySelector('button');
+        namaste.addEventListener('click',showmsg);
+
+
+        function showmsg(){
+            alert("Namaste World");
+            let name = prompt('Enter name of student');
+            namaste.textContent= 'Namaste:' +name;
+        }
+    </script>
+    
+</body>
+</html>
