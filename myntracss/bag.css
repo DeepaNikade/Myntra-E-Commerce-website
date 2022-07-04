@@ -15,7 +15,7 @@
     margin: auto;
     z-index: 10;
 }
-@media only screen and (min-width: 390px){
+@media only screen and (max-width: 390px){
     .navbar1{
         width: 100%;
         justify-content: space-around;
@@ -32,7 +32,7 @@
     /* font-size:larger; */
     /* font-weight:500; */
 }
-@media only screen and (min-width: 390px){
+@media only screen and (max-width: 390px){
     .navigation1{
         display: none;
     }
@@ -46,7 +46,7 @@
     align-items: center;
     /* margin-left: -10rem; */
     }
-    @media only screen and (min-width: 390px){
+    @media only screen and (max-width: 390px){
         .logo{
              margin-bottom: 1rem;
         }
@@ -63,7 +63,7 @@
     align-items: center;
     /* margin-right: 2rem; */
 }
-@media only screen and (min-width: 390px){
+@media only screen and (max-width: 390px){
     .shield{
        display: flex;
        justify-content: center;
@@ -78,7 +78,7 @@
 .shield img{
     height: 1.8rem;
 }
-@media only screen and (min-width: 390px){
+@media only screen and (max-width: 390px){
     .shield img{
         height: 1rem;
 
@@ -94,7 +94,7 @@
     margin: auto;
     margin-top: 2rem;
 }
-@media only screen and (min-width: 390px){
+@media only screen and (max-width: 390px){
     .z{
         display: flex;
         flex-wrap: wrap;
@@ -112,7 +112,7 @@
     margin-bottom: 10rem;
     
 }
-@media only screen and (min-width: 390px){
+@media only screen and (max-width: 390px){
     .l{
         width: 100%;
         display: flex;
@@ -132,7 +132,7 @@
     border: 1px solid rgb(206, 204, 204);
 
 }
-@media only screen and (min-width: 390px){
+@media only screen and (max-width: 390px){
     .add{
         width: 100%;
         flex-wrap: wrap;
@@ -284,7 +284,7 @@
     /* border: 1px solid rgb(123, 123, 123); */
     font-size: 10px;
     
-}@media only screen and (min-width: 390px){
+}@media only screen and (max-width: 390px){
     .butn{
         display: none;
     }
@@ -294,7 +294,7 @@
     outline: none;
     background-color: none;
 }
-@media only screen and (min-width: 390px){
+@media only screen and (max-width: 390px){
     .re{
         display: flex;
         flex-direction: row;
@@ -366,7 +366,7 @@ width: 111px;
     margin-top: 2rem;
    
 }
-@media only screen and (min-width: 390px){
+@media only screen and (max-width: 390px){
     .bookmark{
         width: 100%;
     }
@@ -409,7 +409,7 @@ width: 111px;
     font-size: 13px;
     margin-bottom: 10rem;
 }
-@media only screen and (min-width: 390px){
+@media only screen and (max-width: 390px){
     .r{
         width: 100%;
     }
@@ -556,7 +556,7 @@ display: flex;
     background-color:rgb(255, 63, 108);
     border:1px solid rgb(255, 63, 108);
 }
-@media only screen and (min-width: 390px){
+@media only screen and (max-width: 390px){
     .butnn button{
         padding: 9px 105px;
     }
@@ -569,7 +569,7 @@ display: flex;
     margin: auto;
     margin-top: 1rem;
 }
-@media only screen and (min-width: 390px){
+@media only screen and (max-width: 390px){
     .maingrid{
         width: 100%;
     }
@@ -584,7 +584,7 @@ display: flex;
     /* padding-top: 10rem; */
     gap: 20px;
 }
-@media only screen and (min-width: 390px){
+@media only screen and (max-width: 390px){
     .grid{
         width: 100%;
         display: grid;
@@ -596,7 +596,7 @@ display: flex;
     width: 173px;
     border: 1px solid rgb(212, 210, 210);
 }
-@media only screen and (min-width: 390px){
+@media only screen and (max-width: 390px){
     .card{
         width: 100%;
     }
@@ -621,7 +621,7 @@ display: flex;
 .imagecard img{
     /* border: 1px solid rgb(212, 210, 210); */
 }
-@media only screen and (min-width: 390px){
+@media only screen and (max-width: 390px){
     .imagecard img{
         height: 229px;
         width: 129px;
