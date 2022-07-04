@@ -17,7 +17,7 @@
     margin: auto;
     z-index: 10;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .navbar{
         width: 100%;
     }
@@ -31,7 +31,7 @@ align-items: center;
 margin-top: 2rem;
 margin-bottom: 1rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .logo{
         margin-bottom: 2rem;
     }
@@ -50,7 +50,7 @@ margin-bottom: 1rem;
     font-weight:500;
     
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .navigation{
         display: none;
     }
@@ -99,7 +99,7 @@ margin-bottom: 1rem;
 }
 
 
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .menu{
         display:block;
         position: absolute;
@@ -121,7 +121,7 @@ margin-bottom: 1rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .search{
         display: none;
     }
@@ -149,7 +149,7 @@ font-size: 12px;
 font-weight: 600;
 
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .social{
         width: 40%;
         display: flex;
@@ -175,7 +175,7 @@ font-weight: 600;
     flex-direction: column;
     color: black;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .profile{
         display: flex;
         justify-content: space-around;
@@ -247,7 +247,7 @@ font-weight: 600;
     flex-direction: row;
     width: 100%;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .main{
         width: 100%;
         flex-wrap: wrap;
@@ -256,7 +256,7 @@ font-weight: 600;
 .menimg{
  width: 1100px;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .menimg{
         width:550px;
         display: flex;
@@ -267,7 +267,7 @@ font-weight: 600;
 .menimg img{
     width: 1100px;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .menimg img{
         width: 300px;
     }
@@ -283,7 +283,7 @@ font-weight: 600;
     /* justify-content: center; */
     /* align-items: center; */
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .explore{
         /* display: none; */
     }
@@ -297,7 +297,7 @@ font-weight: 600;
 .best span{
     font-size: 50px;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .best span{
         font-size: 25px;
     }
@@ -321,7 +321,7 @@ font-weight: 600;
     margin-left: 2rem;
     font-size: 22px;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .big{
         font-size: 12px;
         padding-bottom: 2rem;
@@ -337,7 +337,7 @@ font-weight: 600;
     margin-top: 4rem;
 }
 
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .card1{
         width: 95%;
         margin: auto;
@@ -359,7 +359,7 @@ font-weight: 600;
     border-top-right-radius: 10px;
     padding-bottom: 1rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .out{
         width: 150px;
         border-top-left-radius: 10px;
@@ -378,7 +378,7 @@ font-weight: 600;
 .brandimg img{
     border-radius: 10px;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .brandimg img{
         height: 150px;
     }
@@ -390,7 +390,7 @@ font-weight: 600;
 .brandlogo img{
     height: 50px;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .brandlogo img{
         height: 25px;
     }
@@ -399,7 +399,7 @@ font-weight: 600;
     font-size: 30px;
     margin-top: 1rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .min{
         font-size: 15px;
     }
@@ -414,7 +414,7 @@ font-weight: 600;
     justify-content: space-around;
     margin-top: -1rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .card2{
         width: 95%;
         margin: auto;
@@ -433,7 +433,7 @@ font-weight: 600;
     border-bottom-right-radius: 10px;
     padding-bottom: 1rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .out2{
         width: 150px;
         /* border-bottom-left-radius: 10px; */
@@ -462,7 +462,7 @@ font-weight: 600;
     flex-direction: row;
     margin-top: 3rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .card3{
         width: 95%;
         flex-wrap: wrap;
@@ -476,7 +476,7 @@ font-weight: 600;
     align-items: center;
     padding-bottom: 1rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .outcard2{
         width: 100px;
     }
@@ -488,7 +488,7 @@ font-weight: 600;
     border: 2px solid rgb(213, 135, 161);
     margin-top: 1rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .roundimg img{
         width: 90px;
         height: 90px;
@@ -501,7 +501,7 @@ font-weight: 600;
     font-size: 25px;
     margin-top: 1rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .head{
         font-size: 12px;
     }
@@ -516,7 +516,7 @@ font-weight: 600;
     justify-content: space-around;
     margin-top: 4rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .card4{
         width: 95%;
         flex-wrap: wrap;
@@ -535,7 +535,7 @@ font-weight: 600;
     /* border-top-right-radius: 10px; */
     padding-bottom: 1rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .out4{
         width: 150px;
         /* justify-self: left; */
@@ -551,7 +551,7 @@ font-weight: 600;
     flex-direction: row;
 
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .card5{
         width: 95%;
         flex-wrap: wrap;
@@ -569,7 +569,7 @@ font-weight: 600;
   
 
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .cardimages{
         width: 120px;
         
@@ -586,7 +586,7 @@ font-weight: 600;
     height: 40px;
     
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .lux img{
         height: 20px;
         transform: translateY(-20px);
@@ -606,7 +606,7 @@ font-weight: 600;
     width: 200px;
     border: 5px solid black;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .mainimg img{
         width: 120px;
         height: 120px;
@@ -621,7 +621,7 @@ font-weight: 600;
 .middleimg img{
     height: 30px;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .middleimg img{
         height: 15px;
         transform: translateY(40px);
@@ -639,7 +639,7 @@ font-weight: 600;
     font-size: 20px;
     margin-left: 1rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .heading{
         font-size: 10px;
         transform: translateY(-40px);
@@ -650,7 +650,7 @@ font-weight: 600;
     width: 100%;
     margin-top: 2rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
    .footer{
     width: 100%;
     
@@ -663,7 +663,7 @@ font-weight: 600;
     flex-direction: row;
     box-shadow: 4px 5px 10px -16px rgba(0,0,0,0.75);
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .footerin{
      width: 85%;
      flex-wrap: wrap;
@@ -674,7 +674,7 @@ font-weight: 600;
     margin-left: 1rem;
     margin-top: 1rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .online{
      width: 100%;
      /* flex-wrap: wrap; */
@@ -704,7 +704,7 @@ font-weight: 600;
     margin-top: 1rem;
     padding-left: 3rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .useful{
      width: 100%;
      margin-left: -2rem;
@@ -722,7 +722,7 @@ font-weight: 600;
     width: 360px;
     margin-top: 1rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .experience{
      width: 100%;
      margin-left: 1rem;
@@ -755,7 +755,7 @@ margin-top: 1rem;
     width: 300px;
     margin-top: 1rem;
 }
-@media only screen and (max-width: 340px){
+@media only screen and (min-width: 390px){
     .dekstop{
      width: 100%;
      /* flex-wrap: wrap; */

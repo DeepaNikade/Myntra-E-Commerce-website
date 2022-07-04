@@ -17,7 +17,7 @@
     margin: auto;
     z-index: 10;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .navbar{
         width: 100%;
     }
@@ -31,7 +31,7 @@ align-items: center;
 margin-top: 2rem;
 margin-bottom: 1rem;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .logo{
         margin-bottom: 2rem;
     }
@@ -50,7 +50,7 @@ margin-bottom: 1rem;
     font-weight:500;
     
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .navigation{
         display: none;
     }
@@ -99,7 +99,7 @@ margin-bottom: 1rem;
 }
 
 
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .menu{
         display:block;
         position: absolute;
@@ -121,7 +121,7 @@ margin-bottom: 1rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .search{
         display: none;
     }
@@ -149,7 +149,7 @@ font-size: 12px;
 font-weight: 600;
 
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .social{
         width: 40%;
         display: flex;
@@ -175,7 +175,7 @@ font-weight: 600;
     flex-direction: column;
     color: black;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .profile{
         display: flex;
         justify-content: space-around;
@@ -247,7 +247,7 @@ font-weight: 600;
     flex-direction: row;
     width: 100%;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .main{
         width: 100%;
         flex-wrap: wrap;
@@ -256,7 +256,7 @@ font-weight: 600;
 .menimg{
  width: 1100px;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .menimg{
         width:550px;
         display: flex;
@@ -267,7 +267,7 @@ font-weight: 600;
 .menimg img{
     width: 1100px;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .menimg img{
         width: 300px;
     }
@@ -283,7 +283,7 @@ font-weight: 600;
     /* justify-content: center; */
     /* align-items: center; */
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .explore{
         /* display: none; */
     }
@@ -297,7 +297,7 @@ font-weight: 600;
 .best span{
     font-size: 50px;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .best span{
         font-size: 25px;
     }
@@ -332,7 +332,7 @@ font-weight: 600;
     justify-content: space-around;
 }
 
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .card1{
         flex-wrap: wrap;
         display: flex;
@@ -367,7 +367,7 @@ font-weight: 600;
     
     /* justify-content: space-around; */
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .card2{
         flex-wrap: wrap;
     }
@@ -388,7 +388,7 @@ font-weight: 600;
     margin-top: 2rem;
     padding-bottom: 3rem;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .card3{
         flex-wrap: wrap;
     }
@@ -402,7 +402,7 @@ font-weight: 600;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .out3{
         width: 150px;
         margin-top: 1rem;
@@ -425,7 +425,7 @@ font-weight: 600;
     border-radius: 10px;
     box-shadow: 4px 5px 10px -16px rgba(0,0,0,0.75);
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .img3 img{
         width: 125px;
         height: 125px;
@@ -447,7 +447,7 @@ font-weight: 600;
     margin-top: 3rem;
     /* box-shadow: 4px 5px 10px -6px rgba(0,0,0,0.75); */
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .card4{
         flex-wrap: wrap;
         display: flex;
@@ -461,7 +461,7 @@ font-weight: 600;
     flex-direction: column;
     box-shadow: 4px 5px 10px 6px rgba(0,0,0,0.75);
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .out4{
         margin-top: 1rem;
     }
@@ -474,7 +474,7 @@ font-weight: 600;
     height: 300px;
    
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .img4 img{
         width: 125px;
         height: 150px;
@@ -487,7 +487,7 @@ font-weight: 600;
     font-size: 20px;
     margin-top: 0.5rem;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .button4 button{
         font-size: 10px;
     }
@@ -497,7 +497,7 @@ font-weight: 600;
     margin: auto;
     margin-top: 4rem;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
  .mainbox1{
      
  }
@@ -511,7 +511,7 @@ font-weight: 600;
     grid-template-rows: auto auto;
     gap: 20px;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .grid{
         width: 95%;
         margin: auto;
@@ -527,7 +527,7 @@ font-weight: 600;
 .item1 img{
     height: 550px;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .item1 img{
         height: 275px;
     }
@@ -544,7 +544,7 @@ font-weight: 600;
     /* height: 550px; */
     width: 300px;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .item3 img{
         height: 150px;
     }
@@ -559,7 +559,7 @@ font-weight: 600;
     /* margin-left: 4rem; */
     gap: 30px;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .item5{
         gap: 10px;
     }
@@ -567,7 +567,7 @@ font-weight: 600;
 .item5 img{
     width: 300px;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .item5 img{
         width: 150px;
     }
@@ -578,7 +578,7 @@ font-weight: 600;
 .item6 img{
     height: 550px;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .item6 img{
         height: 275px;
     }
@@ -587,7 +587,7 @@ font-weight: 600;
     display: flex;
     font-size: 100px;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .number{
         font-size: 50px;
     }
@@ -604,7 +604,7 @@ font-weight: 600;
     font-size: 40px;
     font-weight: 100;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .belowinfo h3{
         font-size: 20px;
     }
@@ -614,7 +614,7 @@ font-weight: 600;
     margin-left: -4rem;
     margin-top: 2rem;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .belowinfo span{
         font-size: 15px;
     }
@@ -630,7 +630,7 @@ font-weight: 600;
     display: flex;
     justify-content: flex-start;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .belowinfo button{
         font-size: 8px;
     }
@@ -652,7 +652,7 @@ font-weight: 600;
     display: flex;
     font-size: 100px;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .number2{
         font-size: 50px;
     }
@@ -664,7 +664,7 @@ font-weight: 600;
     display: flex;
     /* justify-content:right; */
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .belowinfo2 h3{
         font-size: 20px;
     }
@@ -674,7 +674,7 @@ font-weight: 600;
     /* margin-left: 4rem; */
     margin-top: 3rem;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .belowinfo span{
         font-size: 15px;
     }
@@ -691,7 +691,7 @@ font-weight: 600;
     justify-content:flex-start;
     align-items: left;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .belowinfo2 button{
         font-size: 8px;
     }
@@ -705,7 +705,7 @@ font-weight: 600;
     justify-content: space-around;
     margin-top: 2rem;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .card5{
         flex-wrap: wrap;
     }
@@ -719,7 +719,7 @@ font-weight: 600;
     justify-content: center;
     align-items: center;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .out5{
         width: 100px;
         margin-top: 1rem;
@@ -738,7 +738,7 @@ font-weight: 600;
     padding-bottom: 1rem;
     /* justify-content: space-between; */
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .card6{
         flex-wrap: wrap;
     }
@@ -750,7 +750,7 @@ font-weight: 600;
     display: flex;
     justify-content: space-between;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .img6{
         flex-wrap: wrap;
         display: flex;
@@ -764,7 +764,7 @@ font-weight: 600;
     border-radius: 50%;
     border: 3px solid black;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .img6 img{
         width: 100px;
         height: 100px;
@@ -783,7 +783,7 @@ font-weight: 600;
     width: 100%;
     margin-top: 2rem;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
    .footer{
     width: 100%;
     
@@ -796,7 +796,7 @@ font-weight: 600;
     flex-direction: row;
     box-shadow: 4px 5px 10px -16px rgba(0,0,0,0.75);
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .footerin{
      width: 85%;
      flex-wrap: wrap;
@@ -807,7 +807,7 @@ font-weight: 600;
     margin-left: 1rem;
     margin-top: 1rem;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .online{
      width: 100%;
      /* flex-wrap: wrap; */
@@ -837,7 +837,7 @@ font-weight: 600;
     margin-top: 1rem;
     padding-left: 3rem;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .useful{
      width: 100%;
      margin-left: -2rem;
@@ -855,7 +855,7 @@ font-weight: 600;
     width: 360px;
     margin-top: 1rem;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .experience{
      width: 100%;
      margin-left: 1rem;
@@ -888,7 +888,7 @@ margin-top: 1rem;
     width: 300px;
     margin-top: 1rem;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .dekstop{
      width: 100%;
      /* flex-wrap: wrap; */

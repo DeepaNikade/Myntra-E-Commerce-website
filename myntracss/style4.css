@@ -56,7 +56,7 @@ flex-wrap: wrap;
     /* font-size:medium; */
     /* font-weight: bolder; */
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .navigation{
         display: none;
     }
@@ -69,7 +69,7 @@ flex-wrap: wrap;
     display: none;
 }
 
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .menu{
         display:block;
         position: absolute;
@@ -94,7 +94,7 @@ flex-wrap: wrap;
     justify-content: space-between;
 
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .sub{
         flex-wrap: wrap;
     }
@@ -110,7 +110,7 @@ flex-direction: column;
 
 
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .left{
         width: 100%;
     }
@@ -121,7 +121,7 @@ flex-direction: column;
     margin-bottom: 1rem;
     
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
  .left h1{
      font-size: 1.8rem ;
      line-height: 3rem;
@@ -173,7 +173,7 @@ align-items: flex-end;
 /* margin: auto; */
 justify-content: flex-end;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .right{
         width: 100%;
     }
@@ -186,7 +186,7 @@ justify-content: flex-end;
     transform: translateY(70px);
     
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .right .image{
         width: 20rem;
         height: 30rem;
@@ -201,7 +201,7 @@ justify-content: flex-end;
 
 
 }
-@media only screen and(min-width: 767px){
+@media only screen and(min-width: 390px){
     .image img{
         width: 100%;
     }
@@ -229,7 +229,7 @@ justify-content: flex-end;
     
 
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .sub1{
         flex-wrap: wrap;
     }
@@ -241,7 +241,7 @@ justify-content: flex-end;
     padding: 0.9rem;
 
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .logo1{
         width: 100%;
     }
@@ -293,7 +293,7 @@ justify-content: flex-end;
     flex-direction: row;
 justify-content: space-between;    
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .maind{
         flex-wrap:wrap-reverse;
     }
@@ -304,7 +304,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .davibaju{
         width: 100%;
         /* flex-wrap: wrap; */
@@ -318,7 +318,7 @@ justify-content: center;
 overflow: hidden;
 
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .image2{
         width:20rem;
         height: 30rem;
@@ -338,7 +338,7 @@ overflow: hidden;
 
 
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .ujavibaju{
         width: 100%;
         /* line-height: 2.2rem; */
@@ -351,7 +351,7 @@ overflow: hidden;
     line-height: 3.8rem;
 
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
 .ujavibaju h2{
     font-size: 1.6rem;
     line-height: 2.2rem;
@@ -424,13 +424,13 @@ text-align: center;
     
     
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .timg{
         width: 100%;
 
     }
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .timg img{
    height: 6vh;
     }
@@ -451,7 +451,7 @@ text-align: center;
 justify-content: space-between;
 
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .mbox{
         flex-wrap:wrap;
     }
@@ -475,7 +475,7 @@ flex-direction: column;
     align-items: center;
     /* border: 1px solid black; */
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .rightside{
         width: 100%;
         
@@ -487,7 +487,7 @@ flex-direction: column;
 
     border-radius: 0 350px 350px 350px;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .image3 img{
         width: 18rem;
         height: 30rem;
@@ -529,7 +529,7 @@ flex-direction: column;
     flex-direction: row;
 justify-content: space-between;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .mbox1{
         flex-wrap:wrap-reverse;
     }
@@ -549,7 +549,7 @@ justify-content: space-between;
 
     border-radius: 0 350px 350px 350px;
 }
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 390px){
     .image4 img{
         width: 18rem;
         height: 30rem;
@@ -598,7 +598,7 @@ justify-content: space-between;
         background-color: rgb(219, 223, 249);
        
     }
-    @media only screen and (min-width: 767px){
+    @media only screen and (min-width: 390px){
         .box1{
             padding-bottom: 6rem;
         }
@@ -641,7 +641,7 @@ justify-content: space-between;
         /* border: 1px solid black; */
         
     }
-    @media only screen and (min-width: 767px){
+    @media only screen and (min-width: 390px){
         .down1{
             /* overflow: hidden; */
             flex-wrap: wrap;
@@ -660,7 +660,7 @@ justify-content: space-between;
         /* margin-top: 1rem; */
         box-shadow: 5px 5px 5px 5px rgb(67, 67, 67);
     }
-    @media only screen and (min-width: 767px){
+    @media only screen and (min-width: 390px){
         .pimg1{
             width: 20rem;
             /* height: 30rem; */
@@ -706,7 +706,7 @@ justify-content: space-between;
     .innerinfo h2{
         font-size: 2.5rem;
     }
-    @media only screen and (min-width: 767px){
+    @media only screen and (min-width: 390px){
         .innerinfo h2{font-size: 1.5rem;
         text-align: center;
         }
@@ -725,7 +725,7 @@ justify-content: space-between;
         padding: 0.3rem 1.2rem ;
         margin-top: 2rem;
       }
-      @media only screen and (min-width: 767px){
+      @media only screen and (min-width: 390px){
           .mailbox{
               width: 10rem;
           }
@@ -767,7 +767,7 @@ justify-content: space-between;
         flex-direction: column;
     }
 
-    @media only screen and (min-width: 767px) {
+    @media only screen and (min-width: 390px) {
         .leftfooter{
             width: 100%;
             justify-content: center;
@@ -778,7 +778,7 @@ justify-content: space-between;
         
     }
     
-    @media only screen and (min-width: 767px) {
+    @media only screen and (min-width: 390px) {
         .lf{
             width: 100%;
             display: flex;
